@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T11:37:14.853Z" agent="5.0 (X11)" etag="geDqUhmvPQzyX-36cWMN" version="15.5.5" type="github">
+<mxfile host="app.diagrams.net" modified="2021-10-26T11:38:15.367Z" agent="5.0 (X11)" etag="uuxZXJoHx7Z6dfAy1vCS" version="15.5.5" type="github">
   <diagram id="C5RBs43oDa-KdzZeNtuy" name="Page-1">
-    <mxGraphModel dx="1479" dy="934" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1944" dy="1601" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-0" />
         <mxCell id="WIyWlLk6GJQsqaUBKTNV-1" parent="WIyWlLk6GJQsqaUBKTNV-0" />
@@ -54,14 +54,14 @@
         <mxCell id="TtiSAF1K1pPQqmyiXwEE-21" value="&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;Stockage &lt;br&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 10px&quot;&gt;&lt;font style=&quot;font-size: 10px&quot;&gt;(crypté AES256)&lt;br&gt;&lt;/font&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=18;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="175" y="100" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="TtiSAF1K1pPQqmyiXwEE-22" value="" style="endArrow=diamond;html=1;fontSize=10;fontColor=#000000;curved=1;exitX=1.013;exitY=0.326;exitDx=0;exitDy=0;exitPerimeter=0;endFill=1;entryX=0;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TtiSAF1K1pPQqmyiXwEE-19" target="TtiSAF1K1pPQqmyiXwEE-9">
+        <mxCell id="TtiSAF1K1pPQqmyiXwEE-22" value="" style="endArrow=none;html=1;fontSize=10;fontColor=#000000;curved=1;exitX=1.013;exitY=0.326;exitDx=0;exitDy=0;exitPerimeter=0;endFill=0;entryX=0;entryY=0.065;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=diamondThin;startFill=1;" edge="1" parent="WIyWlLk6GJQsqaUBKTNV-1" source="TtiSAF1K1pPQqmyiXwEE-19" target="TtiSAF1K1pPQqmyiXwEE-9">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="-20" y="610" as="sourcePoint" />
             <mxPoint x="50" y="502" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="TtiSAF1K1pPQqmyiXwEE-23" value="1" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=10;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="40" y="480" width="20" height="20" as="geometry" />
+          <mxGeometry x="-40" y="480" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TtiSAF1K1pPQqmyiXwEE-25" value="Serveur Flask" style="swimlane;fontStyle=0;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;fontColor=#000000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="-360" y="630" width="400" height="120" as="geometry" />
@@ -103,7 +103,7 @@
           <mxGeometry x="-150" y="770" width="20" height="20" as="geometry" />
         </mxCell>
         <mxCell id="TtiSAF1K1pPQqmyiXwEE-45" value="Navigation" style="swimlane;fontStyle=2;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=26;horizontalStack=0;resizeParent=1;resizeLast=0;collapsible=1;marginBottom=0;rounded=0;shadow=0;strokeWidth=1;fontColor=#FF0000;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="400" y="280" width="200" height="120" as="geometry">
+          <mxGeometry x="400" y="240" width="200" height="120" as="geometry">
             <mxRectangle x="230" y="140" width="160" height="26" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
